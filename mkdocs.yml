@@ -1,0 +1,13 @@
+site_name: Dr.407酱的食用指南
+extra_css:
+  - stylesheets/extra.css
+theme:
+  font: false
+  name: 'material'
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  features:
+      - navigation.instant
+  palette:
+      primary: black
+      scheme: slate
