@@ -3,7 +3,7 @@ extra_css:
   - stylesheets/extra.css
 theme:
   font: false
-  name: 'material'
+  name: 'mkdocs'
   logo: assets/logo.svg
   favicon: assets/logo.svg
   features:
