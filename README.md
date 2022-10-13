@@ -21,7 +21,7 @@
 
 ## 这是用什么制作的？
 
-本文档库使用[HBuilderX](https://www.dcloud.io/hbuilderx.html)和[JetBrain](https://www.jetbrains.com.cn/)[~~（什么JetBrain，明明就是JB。【大嘘】~~]的任意IDE编写（主要使用前者）。
+本文档库使用[HBuilderX](https://www.dcloud.io/hbuilderx.html)和[JetBrain](https://www.jetbrains.com.cn/)~~（什么JetBrain，明明就是JB。【大嘘】~~的任意IDE编写（主要使用前者）。
 
 并使用基于[Python](https://www.python.org/)的[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)主题，和[Vercel](https://vercel.com/)进行页面的构建和部署。
 
