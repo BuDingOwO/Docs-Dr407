@@ -21,7 +21,7 @@
 
 ## 这是用什么制作的？
 
-本文档库使用[HBuilderX](https://www.dcloud.io/hbuilderx.html)和[JetBrain](https://www.jetbrains.com.cn/) ~~（什么JetBrain，明明就是JB【大嘘】）~~ 任意IDE编写（主要使用前者）。
+本文档库使用[HBuilderX](https://www.dcloud.io/hbuilderx.html)和[JetBrain](https://www.jetbrains.com.cn/)~~（什么JetBrain，明明就是JB。【咳咳】）~~任意IDE编写（主要使用前者）。
 
 并使用基于[Python](https://www.python.org/)的[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)主题，和[Vercel](https://vercel.com/)进行页面的构建和部署。
 
@@ -30,3 +30,5 @@
 你可以点击[这里](https://docs.forcecat.cn/)查看本食用指南。
 
 如果无法访问，可以尝试[备用链接](https://www.forcecat.cn/407/docs)。
+
+**本README自述文件由[〖天蓝〗](https://github.com/MetallicAllex)帮助撰写。*
