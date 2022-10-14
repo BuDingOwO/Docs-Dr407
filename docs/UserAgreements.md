@@ -122,7 +122,7 @@
 
 **您若邀请Dr.407加入群聊，代表您默认同意本协议。**
 
-> 最后更新日期：2022年10月13日（更新人：[〖天蓝〗](https://github.com/MetallicAllex)）
+> 最后更新日期：2022年10月14日（更新人：[〖天蓝〗](https://github.com/MetallicAllex)）
 >
 > 资料参考来源：[一、《中华人民共和国个人信息保护法》](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml)
 >
