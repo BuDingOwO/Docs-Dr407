@@ -31,4 +31,4 @@
 - [x] 进行了文档的大幅粗略修改和注释。
 - [x] 编辑的时间和自己的署名。
 - [x] 添加兽版[《隐私政策》](../FurVer/UserAgreements.FurVer)和[《用户协议》](../FurVer/Privacy.FurVer)。两者内容上只有文字上的区别，法律效力请使用 旧版[《隐私政策》](../UserAgreements/)和[《用户协议》](../Privacy/)。
-**详细更新内容**可查看[本次Commit](https://github.com/Force-CatDevs/Docs-Dr407/commit)。
+**详细更新内容**可查看[本次Commit](https://github.com/Force-CatDevs/Docs-Dr407/commit/ec1e505a931b23c5a7907745a7b6b830f7e2b1ac)。
