@@ -1,13 +1,35 @@
-site_name: Dr.407酱的食用指南
+site_name: Dr.407的食用指南
+
 extra_css:
+  - tables
   - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.details
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight: 
+      anchor_linenums: true
 theme:
   font: false
   name: 'material'
-  logo: assets/logo.svg
-  favicon: assets/logo.svg
+  logo: https://cdn.jsdelivr.net/gh/Force-CatDevs/Index-Images@1.0/SiteLogo/256.png
+  favicon: https://cdn.jsdelivr.net/gh/Force-CatDevs/Index-Images@1.0/SiteLogo/256.png
   features:
       - navigation.instant
-  palette:
-      primary: black
-      scheme: slate
+  
+  palette: 
+      # Palette toggle for light mode
+      - scheme: white
+        toggle:
+          icon: material/brightness-7 
+          name: Switch to Dark Mode
+      # Palette toggle for dark mode
+      - scheme: slate
+        toggle:
+          icon: material/brightness-4
+          name: Switch to Light Mode

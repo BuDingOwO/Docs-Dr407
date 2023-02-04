@@ -17,11 +17,11 @@
 
 ## 这个项目是什么？
 
-这是Dr.407酱的食用指南文档库哦~
+这是Dr407酱的食用指南文档库哦~
 
 ## 这是用什么制作的？
 
-本文档库使用[HBuilderX](https://www.dcloud.io/hbuilderx.html)和[JetBrain](https://www.jetbrains.com.cn/)  的任意IDE编写（主要使用前者）。
+本文档库使用[HBuilderX](https://www.dcloud.io/hbuilderx.html)和[JetBrain](https://www.jetbrains.com.cn/)  的任意IDE编写（主要使用后者）。
 
 ~~（什么JetBrain，明明就是JB。【大嘘】）~~
 
@@ -29,8 +29,6 @@
 
 ## 我该如何访问Dr.407的食用指南？
 
-你可以点击[这里](https://docs.forcecat.cn/)查看本食用指南。
-
-如果无法访问，可以尝试[备用链接](https://www.forcecat.cn/407/docs)。
+你可以点击[这里](https://dr407.docs.forcecat.site/)查看本食用指南。
 
 **本README自述文件由[〖天蓝〗](https://github.com/MetallicAllex)帮助撰写。*

@@ -1,0 +1,16 @@
+.md-typeset .admonition.note,
+.md-typeset .admonition.abstract,
+.md-typeset .admonition.info,
+.md-typeset .admonition.tip,
+.md-typeset .admonition.success,
+.md-typeset .admonition.question,
+.md-typeset .admonition.worning,
+.md-typeset .admonition.warning,
+.md-typeset .admonition.failure,
+.md-typeset .admonition.danger,
+.md-typeset .admonition.bug,
+.md-typeset .admonition.example,
+.md-typeset .admonition.quote,
+.md-typeset .admonition.error{
+  font-size: 1em;
+}
