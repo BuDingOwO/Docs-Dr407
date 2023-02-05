@@ -39,4 +39,4 @@
 
 ### 本次所做的更改有：
 - [x] 新增 [绮梦云黑](./Helpless#12)
-  **详细更新内容**可查看[本次Commit](https://github.com/Force-CatDevs/Docs-Dr407/commit/)。
+  **详细更新内容**可查看[本次Commit](https://github.com/Force-CatDevs/Docs-Dr407/commit/aa056e323bd600245e42b04e29ebfbe6c50bd9c6)。
