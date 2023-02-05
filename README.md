@@ -31,4 +31,4 @@
 
 你可以点击[这里](https://dr407.docs.forcecat.site/)查看本食用指南。
 
-**本README自述文件由[〖天蓝〗](https://github.com/MetallicAllex)帮助撰写。*
+**本README自述文件由[〖天蓝〗](https://github.com/MetallicAllex)帮助撰写。* 
