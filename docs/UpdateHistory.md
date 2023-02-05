@@ -32,3 +32,11 @@
 - [x] 编辑的时间和自己的署名。
 - [x] 添加兽版[《隐私政策》](../FurVer/UserAgreements.FurVer)和[《用户协议》](../FurVer/Privacy.FurVer)。两者内容上只有文字上的区别，法律效力请使用 旧版[《隐私政策》](../UserAgreements/)和[《用户协议》](../Privacy/)。
 **详细更新内容**可查看[本次Commit](https://github.com/Force-CatDevs/Docs-Dr407/commit/ec1e505a931b23c5a7907745a7b6b830f7e2b1ac)。
+
+## 2023年2月6日
+
+由[**布丁酱**](https://github.com/BuDingOwO)更新了本文档库。
+
+### 本次所做的更改有：
+- [x] 新增 [绮梦云黑](./Helpless#12)
+  **详细更新内容**可查看[本次Commit](https://github.com/Force-CatDevs/Docs-Dr407/commit/)。
